@@ -1,0 +1,18 @@
+.navbar-wrapper{
+    border-bottom: 1px solid lightgray;
+    padding: 15px;
+}
+
+.offer-card {
+    height: 150px;
+    width: 32%;
+    background-color: lightgray;
+}
+.offer-card h1{
+    text-align: center;
+    font-size: 27px;
+}
+.offer-card p{
+    text-align: center;
+    
+}
